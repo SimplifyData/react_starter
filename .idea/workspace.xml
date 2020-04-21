@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9029ec50-b789-46c8-8e67-30a617969e58" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/serviceWorker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
-    </list>
+    <list default="true" id="9029ec50-b789-46c8-8e67-30a617969e58" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,6 +34,7 @@
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunManager" selected="npm.npm start">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
@@ -75,11 +63,37 @@
       <updated>1587309586663</updated>
       <workItem from="1587309588608" duration="4471000" />
       <workItem from="1587352845745" duration="233000" />
-      <workItem from="1587433099574" duration="909000" />
+      <workItem from="1587433099574" duration="1539000" />
     </task>
+    <task id="LOCAL-00001" summary="Just a Simple React App">
+      <created>1587436545549</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587436545549</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Just a Simple React App" />
+    <option name="LAST_COMMIT_MESSAGE" value="Just a Simple React App" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1893" y="202" key="CommitChangelistDialog2" timestamp="1587436543745">
+      <screen x="1440" y="194" width="1920" height="1057" />
+    </state>
+    <state x="1893" y="202" key="CommitChangelistDialog2/0.23.1440.877/1440.194.1920.1057@1440.194.1920.1057" timestamp="1587436543745" />
+    <state x="1793" y="324" key="SettingsEditor" timestamp="1587437145610">
+      <screen x="1440" y="194" width="1920" height="1057" />
+    </state>
+    <state x="1793" y="324" key="SettingsEditor/0.23.1440.877/1440.194.1920.1057@1440.194.1920.1057" timestamp="1587437145610" />
+    <state x="1884" y="421" key="Vcs.Push.Dialog.v2" timestamp="1587437155610">
+      <screen x="1440" y="194" width="1920" height="1057" />
+    </state>
+    <state x="1884" y="421" key="Vcs.Push.Dialog.v2/0.23.1440.877/1440.194.1920.1057@1440.194.1920.1057" timestamp="1587437155610" />
   </component>
 </project>
